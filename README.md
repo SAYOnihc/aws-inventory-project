@@ -72,6 +72,12 @@ Tested scenarios include:
 - SNS low-stock email notifications
 - CloudWatch logging
 
+### SNS Notification
+
+A low-stock test successfully triggered an SNS email notification.
+
+![SNS Low Stock Alert](email%20sns.png)
+
 ## Project Structure
 
 ```text
