@@ -6,6 +6,8 @@ The API accepts inventory records, stores them in DynamoDB, and sends an SNS not
 
 ## Architecture
 
+![AWS Inventory Architecture](architecture.png)
+
 ```text
 API Gateway → Lambda → DynamoDB
                   ↓
